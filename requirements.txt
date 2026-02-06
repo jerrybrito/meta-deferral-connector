@@ -1,0 +1,2 @@
+# Requires: hypothetical-latency
+# (Not available on PyPI)
